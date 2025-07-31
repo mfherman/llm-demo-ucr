@@ -1,5 +1,6 @@
 library(shiny)
 library(querychat)
+library(reactable)
 
 ca_data <- readRDS("ca_data.rds")
 
